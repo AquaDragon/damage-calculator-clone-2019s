@@ -1,11 +1,5 @@
-# VGC 2018 Damage Calculator
-Originally the official Nuggetbridge damage calculator 2015-2016, adapted for Trainer Tower in 2017.
+# Clone of the VGC 2019 Damage Calculator
 
-Credits and license
--------------------
+Cloned from the original respository (https://github.com/jake-white/VGC-Damage-Calculator)
 
-MIT License.
-
-Written by Honko. VGC 2015 Update by Tapin and Firestorm. VGC 2016 and onwards done by squirrelboyVGC.
-
-The calculator is accessible online via http://trainertower.com/damagecalc
+Quick Link: http://aquadragontrs.github.io/damage-calculator-clone-2019s
